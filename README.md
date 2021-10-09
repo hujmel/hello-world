@@ -1,2 +1,5 @@
 # hello-world
-test repository
+This a test repository.
+
+Best regards,
+hujmel
